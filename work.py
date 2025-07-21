@@ -1,4 +1,3 @@
-my_input = input().split(" ")
-ab = list(map(int , my_input))
-print(ab[0] + ab[1])
-print("신규")
+a = {1: 'a'}
+a[2] = 'b'
+print(a)
